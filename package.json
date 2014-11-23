@@ -1,0 +1,12 @@
+{
+  "name": "igemScraper",
+  "description": "Takes a biobrick id and fetches it using iGEM's API",
+  "author": "Thomas Rich <tnrich@github.com>",
+  "dependencies": {
+    "request": "2.48.x",
+  },
+  "devDependencies": {
+    "vows": "0.5.x"
+  },
+  "engine": "node >= 0.4.1"
+}
